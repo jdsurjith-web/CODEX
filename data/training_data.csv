@@ -1,0 +1,9 @@
+composition,moisture,contamination,quantity_tonnes,market_demand,processing_cost,transport_cost,hazard_level,pathway
+82,4,10,2.5,85,20,10,0,Recycling
+95,1,3,5.0,92,15,8,0,Recycling
+75,8,12,1.8,70,25,12,0,Reuse
+60,35,25,4.0,55,40,20,1,Recovery
+88,3,8,3.5,90,18,9,0,Recycling
+70,12,18,2.0,65,30,15,0,Reuse
+55,40,30,4.5,45,50,25,1,Recovery
+40,50,45,1.0,20,60,35,1,Disposal

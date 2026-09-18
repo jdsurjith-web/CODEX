@@ -1,0 +1,11 @@
+industry,application,pathway,min_composition,max_contamination,market_demand
+Construction,Concrete Additive,Reuse,70,15,85
+Construction,Road Base Material,Recovery,60,30,78
+Manufacturing,Metal Component Recycling,Recycling,80,15,92
+Automotive,Metal Scrap Recovery,Recycling,85,10,90
+Plastic Manufacturing,Recycled Plastic Products,Recycling,75,20,88
+Packaging,Recycled Plastic Packaging,Recycling,80,10,82
+Textile Manufacturing,Recycled Fiber,Recycling,70,20,76
+Cement Industry,Alternative Raw Material,Recovery,55,35,80
+Energy Industry,Waste Energy Recovery,Recovery,50,40,72
+Industrial Processing,Material Recovery,Recovery,60,30,68
