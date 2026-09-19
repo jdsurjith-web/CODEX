@@ -9,7 +9,11 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 PROJECT_ROOT = Path(__file__).resolve().parents[3]
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "models", "forecasting_model.pkl")
+MODEL_PATH = (
+    "/tmp/wastewise_forecasting_model.pkl"
+    if os.getenv("VERCEL")
+    else os.path.join(os.path.dirname(__file__), "..", "..", "models", "forecasting_model.pkl")
+)
 
 
 class ForecastingEngine:
