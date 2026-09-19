@@ -1,0 +1,6 @@
+name,industry,required_material,required_quantity,demand_level,location,processing_requirement
+Construction Materials Co.,Construction,Foundry Sand,12,High,Coimbatore,Low processing
+Eco Aggregate Works,Aggregate,Foundry Sand,8,High,Coimbatore,Low processing
+GreenBuild Industries,Building Materials,Foundry Sand,5,Medium,Coimbatore,Moderate screening
+Urban Fill Solutions,Infrastructure,Foundry Sand,9,Medium,Coimbatore,Low processing
+Precise Concrete Labs,Construction,Fly Ash,10,High,Coimbatore,Moderate mixing

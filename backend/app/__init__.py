@@ -1,0 +1,1 @@
+"""WASTEWISE AI backend package."""
